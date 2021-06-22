@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ACL Testing" max_length="40" name="x_318209_interview_acl_testing" sizeclass="3" type="collection">
+        <element label="ClnType1" max_length="40" name="clntype1" type="string"/>
+        <element label="ClnType2" max_length="40" name="clntype2" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="MngType1" max_length="40" name="type0" type="string"/>
+        <element label="MngType2" max_length="50" name="type01" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
