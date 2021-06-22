@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>write</operation>
+        <source_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</source_scope>
+        <status>requested</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-22 01:57:19</sys_created_on>
+        <sys_id>14c3e60f8778b41001d6cbb9cebb355e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Acl Int Test</sys_name>
+        <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+        <sys_update_name>sys_scope_privilege_14c3e60f8778b41001d6cbb9cebb355e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-22 01:57:19</sys_updated_on>
+        <target_name>Acl Int Test</target_name>
+        <target_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Interview">353e308d8730301001d6cbb9cebb3547</application>
+        <file_path/>
+        <instance_id>049a1e4edb5f6490ad8dd7c8f4961913</instance_id>
+        <instance_name>dev110366</instance_name>
+        <name>sys_scope_privilege_14c3e60f8778b41001d6cbb9cebb355e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>write</operation><source_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</source_scope><status>requested</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-22 01:57:19</sys_created_on><sys_id>14c3e60f8778b41001d6cbb9cebb355e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Acl Int Test</sys_name><sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package><sys_policy/><sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope><sys_update_name>sys_scope_privilege_14c3e60f8778b41001d6cbb9cebb355e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-22 01:57:19</sys_updated_on><target_name>Acl Int Test</target_name><target_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>1504162058</payload_hash>
+        <record_name>Acl Int Test</record_name>
+        <reverted_from/>
+        <source>f53e308d8730301001d6cbb9cebb3549</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-22 01:57:19</sys_created_on>
+        <sys_id>d804a60f8778b41001d6cbb9cebb3575</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a316fa87e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-22 01:57:19</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>1404a60f4f78b410ba6027b1ad561175</update_guid>
+        <update_guid_history>1404a60f4f78b410ba6027b1ad561175:1504162058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-22 02:46:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>da5f7459843346c0a8bd402f84e89000</sys_id>
+        <sys_metadata>14c3e60f8778b41001d6cbb9cebb355e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Acl Int Test</sys_name>
+        <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+        <sys_scope_delete display_value="">4ccb23bdd2964f0585c9805edb6bb7f1</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_14c3e60f8778b41001d6cbb9cebb355e</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_14c3e60f8778b41001d6cbb9cebb355e">d804a60f8778b41001d6cbb9cebb3575</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-22 02:46:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type0" label="MngType1" language="en" table="x_318209_interview_acl_testing">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type0</element>
+            <help/>
+            <hint/>
+            <label>MngType1</label>
+            <language>en</language>
+            <name>x_318209_interview_acl_testing</name>
+            <plural>MngType1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-17 08:21:48</sys_created_on>
+            <sys_id>bb0c826987f0b01001d6cbb9cebb3550</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>MngType1</sys_name>
+            <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+            <sys_update_name>sys_documentation_x_318209_interview_acl_testing_type0_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-17 09:14:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

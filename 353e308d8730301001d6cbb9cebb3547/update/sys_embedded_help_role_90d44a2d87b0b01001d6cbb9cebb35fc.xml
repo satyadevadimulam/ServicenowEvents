@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_318209_interview.ACL Testing" name="x_318209_interview.ACL Testing">9cb4862d87b0b01001d6cbb9cebb35a8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-17 07:50:11</sys_created_on>
+        <sys_id>90d44a2d87b0b01001d6cbb9cebb35fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9cb4862d87b0b01001d6cbb9cebb35a8</sys_name>
+        <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+        <sys_update_name>sys_embedded_help_role_90d44a2d87b0b01001d6cbb9cebb35fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-17 07:50:11</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

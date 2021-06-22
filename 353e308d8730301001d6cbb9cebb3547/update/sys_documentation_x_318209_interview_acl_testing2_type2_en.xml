@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type2" label="Type2" language="en" table="x_318209_interview_acl_testing2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type2</element>
+            <help/>
+            <hint/>
+            <label>Type2</label>
+            <language>en</language>
+            <name>x_318209_interview_acl_testing2</name>
+            <plural>Type2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-17 08:20:43</sys_created_on>
+            <sys_id>f7cbca2987f0b01001d6cbb9cebb352a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type2</sys_name>
+            <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+            <sys_update_name>sys_documentation_x_318209_interview_acl_testing2_type2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-17 08:20:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_318209_interview_acl_testing" label="Acl Testing2" max_length="40" name="x_318209_interview_acl_testing2" sizeclass="0" type="collection">
+        <element label="Type1" max_length="40" name="type1" type="string"/>
+        <element label="Type2" max_length="50" name="type2" type="string"/>
+    </element>
+</database>

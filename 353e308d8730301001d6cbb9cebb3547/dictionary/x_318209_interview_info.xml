@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Info" max_length="40" name="x_318209_interview_info" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Test" max_length="20" name="test" type="string"/>
+        <element label="Test2" max_length="40" name="test2" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

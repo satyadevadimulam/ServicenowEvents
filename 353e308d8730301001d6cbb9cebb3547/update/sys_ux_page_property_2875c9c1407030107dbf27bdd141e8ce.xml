@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="Interview">6475c9c15c703010fc700fc87966bace</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-15 13:56:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2875c9c1407030107dbf27bdd141e8ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Interview" source="x_318209_interview">353e308d8730301001d6cbb9cebb3547</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Interview">353e308d8730301001d6cbb9cebb3547</sys_scope>
+        <sys_update_name>sys_ux_page_property_2875c9c1407030107dbf27bdd141e8ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-15 13:56:21</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_318209_interview.6475c9c15c703010fc700fc87966bace.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2875c9c1407030107dbf27bdd141e8ce"/>
+</record_update>
